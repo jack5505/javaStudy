@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println(calculator.run("Hello"));
         System.out.println(calculator.run("World"));
+        System.out.println(calculator.run("Hello"));
+        System.out.println(calculator.run("World"));
     }
 }
